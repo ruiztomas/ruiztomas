@@ -3,7 +3,7 @@
 
 # Datos personales
 
-+ ![Este soy yo](unnamed.png)
+![Este soy yo](unnamed.png)
 
 + - Edad: 24 años
   - En pareja
