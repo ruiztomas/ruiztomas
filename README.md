@@ -5,12 +5,12 @@
 
 ![Este soy yo](unnamed.png)
 
-+ - Edad: 24 años
-  - En pareja
-  - Estudiante universitario
++ Edad: 24 años
++ En pareja
++ Estudiante universitario
 
 # Lenguajes de programacion preferidos
-+ - Javascript
-  - Python
-  - HTML
++ Javascript
++ Python
++ HTML
  
