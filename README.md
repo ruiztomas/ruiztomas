@@ -14,3 +14,8 @@
 + Python
 + HTML
  
+# Gustos personales
+- Pasar tiempo y disfrutar con mi pareja
+- Ver y jugar Futbol
+- Hincha de San Miguel y River
+- Ver Formula 1 y seguidor de Ferrari
